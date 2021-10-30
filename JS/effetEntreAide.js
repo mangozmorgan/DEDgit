@@ -188,9 +188,7 @@ let stringACut2=document.getElementsByClassName("aCut2")
 
 //JQUERY//
 
-document.querySelector('#createBtn').addEventListener('click',(e)=>{
-    e.preventDefault();
-})
+
 
 $(".titreResultat").click(function(){
 

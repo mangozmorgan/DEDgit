@@ -21,23 +21,13 @@ function recupererCookie(nom) {
 	return "inconnu";
 }
 
- function acceptCGU(result){
-	if(result==="yes"){
-		modalCgu.className= "maskCgu"
-	}
-		creerCookie('acceptCGU' ,result,'15',{ sameSite: 'Lax', secure: true })
-		
+
 	
-}
 
 
 
 let cguCookie = recupererCookie("acceptCGU")
-    if(cguCookie==="yes"){
-        modalCgu.className= "maskCgu"
-	}else{
-		modalCgu.className= "cgu"
-	}
+   
 	
 // let nameCookie = recupererCookie("name")
 
