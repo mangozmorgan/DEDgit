@@ -230,46 +230,46 @@ let killErrorCookie = ()=>{
 
 
 imgHtml.addEventListener("mouseover",(e)=>{    
-        imgHtml.src = "../images/htmlColor.png"    
+        imgHtml.src = "../IMAGES/htmlColor.png"    
 })
 imgHtml.addEventListener("mouseleave",(e)=>{
-    imgHtml.src = "../images/htmlWht.png"
+    imgHtml.src = "../IMAGES/htmlWht.png"
 })
 
 imgCss.addEventListener("mouseover",(e)=>{    
-    imgCss.src = "../images/CssColor.png"    
+    imgCss.src = "../IMAGES/CssColor.png"    
 })
 imgCss.addEventListener("mouseleave",(e)=>{
-    imgCss.src = "../images/cssWht.png"
+    imgCss.src = "../IMAGES/cssWht.png"
 })
 
 imgJs.addEventListener("mouseover",(e)=>{   
      
-    imgJs.src = "../images/jsColor.png"    
+    imgJs.src = "../IMAGES/jsColor.png"    
 })
 imgJs.addEventListener("mouseleave",(e)=>{
-    imgJs.src = "../images/jsWht.png"
+    imgJs.src = "../IMAGES/jsWht.png"
 })
 
 imgMongo.addEventListener("mouseover",(e)=>{    
-    imgMongo.src = "../images/mongoColor.png"    
+    imgMongo.src = "../IMAGES/mongoColor.png"    
 })
 imgMongo.addEventListener("mouseleave",(e)=>{
-    imgMongo.src = "../images/mongoWht.png"
+    imgMongo.src = "../IMAGES/mongoWht.png"
 })
 
 imgNode.addEventListener("mouseover",(e)=>{    
-    imgNode.src = "../images/nodeColor.png"    
+    imgNode.src = "../IMAGES/nodeColor.png"    
 })
 imgNode.addEventListener("mouseleave",(e)=>{
-    imgNode.src = "../images/nodeWht.png"
+    imgNode.src = "../IMAGES/nodeWht.png"
 })
 
 imgGit.addEventListener("mouseover",(e)=>{    
-    imgGit.src = "../images/gitColor.png"    
+    imgGit.src = "../IMAGES/gitColor.png"    
 })
 imgGit.addEventListener("mouseleave",(e)=>{
-    imgGit.src = "../images/githWht.png"
+    imgGit.src = "../IMAGES/githWht.png"
 })
 
 
