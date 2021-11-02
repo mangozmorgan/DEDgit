@@ -250,7 +250,7 @@ a{
     color: rgba(0, 0, 0,0 )!important;
     margin-right: 1vw;
     font-size: 3vw !important;
-     background: url(../IMAGES/loglog2.png); 
+     background: url(.IMAGES/loglog2.png); 
     background-size: contain;
     background-repeat: no-repeat;
 
@@ -1899,7 +1899,7 @@ textarea{
 .openVolet{
     height: 10%;
     width: 7%;
-    background-image: url(../IMAGES/volet.png);
+    background-image: url(.IMAGES/volet.png);
     display: none;
     background-position: center;
     background-size: 1.6em;
@@ -1935,7 +1935,7 @@ textarea{
 
 
     color: rgba(0, 0, 0, 0);
-    background-image: url(../IMAGES/logPicBlue.png) !important;
+    background-image: url(.IMAGES/logPicBlue.png) !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 30%;
@@ -1945,7 +1945,7 @@ textarea{
 .inscScrollBarr:hover{
     cursor: pointer;
     color: rgba(0, 0, 0, 0);
-    background-image: url(../IMAGES/plusCircBlue.png) !important;
+    background-image: url(.IMAGES/plusCircBlue.png) !important;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 30%;
